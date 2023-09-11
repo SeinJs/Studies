@@ -170,8 +170,7 @@ https://github.com/ 에서 ReadMe.md, .gitignore 를 추가하지 않은 완전�
 
 Find Source Control|Press Initialize Repository
 ---|---
-![](https://github.com/nhn-academy-marco/nhn-academy-dev-settings/tree/8039b0b211c749a4de378433234e4e628ac6be2d/gyeongnam-docs/2%EC%9D%BC%EC%B0%A8/00.Visual%20Studio%20Code/images/git-on-vsc/01.find-source-control.png)|![](https://github.com/nhn-academy-marco/nhn-academy-dev-settings/tree/8039b0b211c749a4de378433234e4e628ac6be2d/gyeongnam-docs/2%EC%9D%BC%EC%B0%A8/00.Visual%20Studio%20Code/images/images/git-on-vsc/02.source-control-gui.png)
-
+![](https://github.com/nhn-academy-marco/nhn-academy-dev-settings/blob/8039b0b211c749a4de378433234e4e628ac6be2d/gyeongnam-docs/2%EC%9D%BC%EC%B0%A8/00.Visual%20Studio%20Code/images/git-on-vsc/01.find-source-control.png)|![](https://github.com/nhn-academy-marco/nhn-academy-dev-settings/blob/8039b0b211c749a4de378433234e4e628ac6be2d/gyeongnam-docs/2%EC%9D%BC%EC%B0%A8/00.Visual%20Studio%20Code/images/git-on-vsc/02.source-control-gui.png)
 - Command
 
 ```terminal
@@ -181,8 +180,7 @@ src
 ### 2. Add File
 - GUI
 
-![](./images/git-on-vsc/03.add-file.png)
-
+![](https://github.com/nhn-academy-marco/nhn-academy-dev-settings/blob/8039b0b211c749a4de378433234e4e628ac6be2d/gyeongnam-docs/2%EC%9D%BC%EC%B0%A8/00.Visual%20Studio%20Code/images/git-on-vsc/03.add-file.png)
 - Command
 ```
 git add src/App.java
