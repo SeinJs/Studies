@@ -192,7 +192,7 @@ git add src/App.java
 
 - GUI
 
-![](./images/git-on-vsc/04.commit-changes.png)
+![](https://github.com/SeinJs/nhn-academy-dev-settings/blob/main/gyeongnam-docs/2%EC%9D%BC%EC%B0%A8/00.Visual%20Studio%20Code/images/git-on-vsc/04.commit-changes.png)
 
 - Command
 
@@ -204,8 +204,8 @@ git commit -m "add source App.java"
 
 - GUI
 
-![](./images/git-on-vsc/05.set-git-user.png)
-![](./images/git-on-vsc/05-1.git-config.png)
+![](https://github.com/SeinJs/nhn-academy-dev-settings/blob/main/gyeongnam-docs/2%EC%9D%BC%EC%B0%A8/00.Visual%20Studio%20Code/images/git-on-vsc/05.set-git-user.png)
+![](https://github.com/SeinJs/nhn-academy-dev-settings/blob/main/gyeongnam-docs/2%EC%9D%BC%EC%B0%A8/00.Visual%20Studio%20Code/images/git-on-vsc/05-1.git-config.png)
 
 - Command
 
@@ -220,7 +220,7 @@ git config --global user.name "Your Name"
 
 - GUI
 
-![](./images/git-on-vsc/06.push-commit.png)
+![](https://github.com/SeinJs/nhn-academy-dev-settings/blob/main/gyeongnam-docs/2%EC%9D%BC%EC%B0%A8/00.Visual%20Studio%20Code/images/git-on-vsc/06.push-commit.png)
 
 - Command
 
@@ -232,24 +232,24 @@ git push ...
 
 - GUI
 
-![](./images/git-on-vsc/07.set-remote.png)
+![](https://github.com/SeinJs/nhn-academy-dev-settings/blob/main/gyeongnam-docs/2%EC%9D%BC%EC%B0%A8/00.Visual%20Studio%20Code/images/git-on-vsc/07.set-remote.png)
 
-![](./images/git-on-vsc/09.set-remote-url.png)
+![](https://github.com/SeinJs/nhn-academy-dev-settings/blob/main/gyeongnam-docs/2%EC%9D%BC%EC%B0%A8/00.Visual%20Studio%20Code/images/git-on-vsc/09.set-remote-url.png)
 
-![](./images/git-on-vsc/10.set-remote-name.png)
+![](https://github.com/SeinJs/nhn-academy-dev-settings/blob/main/gyeongnam-docs/2%EC%9D%BC%EC%B0%A8/00.Visual%20Studio%20Code/images/git-on-vsc/10.set-remote-name.png)
 
 - Command
 
 ```
-git remote add oring https://github.com/devel0624/vsc-test-repository.git
+git remote add origin https://github.com/devel0624/vsc-test-repository.git
 ```
 
 #### Remane Branch
 
 - GUI
 
-![](./images/git-on-vsc/11.make-branch.png)
-![](./images/git-on-vsc/13.set-branch-name.png)
+![](https://github.com/SeinJs/nhn-academy-dev-settings/blob/main/gyeongnam-docs/2%EC%9D%BC%EC%B0%A8/00.Visual%20Studio%20Code/images/git-on-vsc/11.make-branch.png)
+![](https://github.com/SeinJs/nhn-academy-dev-settings/blob/main/gyeongnam-docs/2%EC%9D%BC%EC%B0%A8/00.Visual%20Studio%20Code/images/git-on-vsc/13.set-branch-name.png)
 
 
 - Command
@@ -262,7 +262,7 @@ git branch -m main
 
 - GUI
 
-![](./images/git-on-vsc/14.try-push.png)|![](./images/git-on-vsc/15.publish-branch.png)
+![](https://github.com/SeinJs/nhn-academy-dev-settings/blob/main/gyeongnam-docs/2%EC%9D%BC%EC%B0%A8/00.Visual%20Studio%20Code/images/git-on-vsc/14.try-push.png)|![](https://github.com/SeinJs/nhn-academy-dev-settings/blob/main/gyeongnam-docs/2%EC%9D%BC%EC%B0%A8/00.Visual%20Studio%20Code/images/git-on-vsc/15.publish-branch.png)
 -|-
 
 - Command
@@ -274,9 +274,9 @@ git push origin main
 
 ### Commit From Remote
 
-![](./images/git-on-vsc/16.check-remote.png)|![](./images/git-on-vsc/17.add-new-file.png)
+![](https://github.com/SeinJs/nhn-academy-dev-settings/blob/main/gyeongnam-docs/2%EC%9D%BC%EC%B0%A8/00.Visual%20Studio%20Code/images/git-on-vsc/16.check-remote.png)|![](https://github.com/SeinJs/nhn-academy-dev-settings/blob/main/gyeongnam-docs/2%EC%9D%BC%EC%B0%A8/00.Visual%20Studio%20Code/images/git-on-vsc/17.add-new-file.png)
 -|-
-![](./images/git-on-vsc/18.write-readme.png)|![](./images/git-on-vsc/19.commit-readme.png)
+![](https://github.com/SeinJs/nhn-academy-dev-settings/blob/main/gyeongnam-docs/2%EC%9D%BC%EC%B0%A8/00.Visual%20Studio%20Code/images/git-on-vsc/18.write-readme.png)|![](https://github.com/SeinJs/nhn-academy-dev-settings/blob/main/gyeongnam-docs/2%EC%9D%BC%EC%B0%A8/00.Visual%20Studio%20Code/images/git-on-vsc/19.commit-readme.png)
 
 ### 5. Pull Remote Commits
 
@@ -284,7 +284,7 @@ git push origin main
 
 - GUI
 
-![](./images/git-on-vsc/20.fetch-branch.png)
+![](https://github.com/SeinJs/nhn-academy-dev-settings/blob/main/gyeongnam-docs/2%EC%9D%BC%EC%B0%A8/00.Visual%20Studio%20Code/images/git-on-vsc/20.fetch-branch.png)
 
 - Command
 
@@ -296,7 +296,7 @@ git fetch origin main
 
 - GUI
 
-![](./images/git-on-vsc/21.show-remote-change.png)|![](./images/git-on-vsc/22.pull-commits.png)
+![](https://github.com/SeinJs/nhn-academy-dev-settings/blob/main/gyeongnam-docs/2%EC%9D%BC%EC%B0%A8/00.Visual%20Studio%20Code/images/git-on-vsc/21.show-remote-change.png)|![](https://github.com/SeinJs/nhn-academy-dev-settings/blob/main/gyeongnam-docs/2%EC%9D%BC%EC%B0%A8/00.Visual%20Studio%20Code/images/git-on-vsc/22.pull-commits.png)
 -|-
 
 - Command
@@ -307,4 +307,4 @@ git pull origin main
 
 #### Check Applies
 
-![](./images/git-on-vsc/23.apply-commit.png)
+![](https://github.com/SeinJs/nhn-academy-dev-settings/blob/main/gyeongnam-docs/2%EC%9D%BC%EC%B0%A8/00.Visual%20Studio%20Code/images/git-on-vsc/23.apply-commit.png)
